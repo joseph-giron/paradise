@@ -1,3 +1,7 @@
+########################
+Doesnt even fucking work. Unresolved external references despite including all libs and headers. I'm not some noob who can't compile a program either. its just fucked....
+
+
 x86/x64 hooking library
 
 ## Examples
